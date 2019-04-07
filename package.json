@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ejbronze/bAmazon#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
     "require": "^2.4.20"
   }
 }
